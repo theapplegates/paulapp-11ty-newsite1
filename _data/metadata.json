@@ -1,0 +1,26 @@
+{
+  "title": "Living Life",
+  "url": "https://paulapplegate.com",
+  "domain": "paulapplegate.com",
+  "description": "Follow my daily hijinks here. There may also be a serious subject like cancer now and then. Fuck cancer.",
+  "genre": "Blog",
+  "googleAnalyticsId": "UA-147090349-10",
+  "sendWebVitals": false,
+  "feed": {
+    "subtitle": "Living Life Feed",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://paulapplegate.com"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://paulapplegate.com/feed/feed.json"
+  },
+  "author": {
+    "name": "Paul Applegate",
+    "twitterHandle": "papplegate"
+  },
+  "publisher": {
+    "name": "Paul Applegate"
+  }
+}

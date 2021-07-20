@@ -1,0 +1,17 @@
+---
+title: Living Life.
+layout: layouts/home.njk
+description: Follow my daily hijinks here. There may also be a serious subject like cancer now and then. Fuck cancer.
+image: https://upload.wikimedia.org/wikipedia/en/a/a9/Example.jpg
+date: Last Modified
+---
+
+<p>
+Excuse the dust as I move into this new template.
+</p>
+
+<div id="posts">
+  <h2>Posts</h2>
+  {% set postslist = collections.posts %}
+  {% include "postslist.njk" %}
+</div>
