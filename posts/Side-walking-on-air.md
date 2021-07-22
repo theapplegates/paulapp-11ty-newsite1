@@ -4,7 +4,7 @@ description: The winners of the 2021 IPP Awards
 date: 2021-07-22
 tags:
 	- IPPAwards
-	- iPhone
+  - iPhone
 layout: layouts/post.njk
 ---
 The [2021 ippawards](https://www.ippawards.com/2021-winning-photographers) have been announced. This is a contest open to pictures taken with an iPhone or an iPad.
