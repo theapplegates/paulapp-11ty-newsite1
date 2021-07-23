@@ -15,12 +15,12 @@ Here is some trivia about me. When I was 10 we lived in New Jersey. My mother wa
 If you're curious what TV was like in 1979 then be all means watch the [episode](https://vimeo.com/26595314) the password is pa$$word.
 Oh and I lost the game.
 
-![ShowTitle](../../img/ShowTitle2.jpg)
+![ShowTitle](../../img/ShowTitle.jpg)
 
-![Contract](../../img/Contract2.jpg)
+![Contract](../../img/Contract.jpg)
 
 
-![Me](../../img/Me-tv2.jpg)
+![Me](../../img/Me-tv.jpg)
 
 
 
