@@ -17,10 +17,10 @@ Oh and I lost the game.
 
 ![ShowTitle](../../img/ShowTitle.jpg)
 
-![Contract](../../img/Contract.jpg)
+![Contract](../../img/contract-.jpg)
 
 
-![Me](../../img/Me-tv.jpg)
+![Me](../../img/Me-mom-tv.jpg)
 
 
 
