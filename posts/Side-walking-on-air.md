@@ -12,4 +12,4 @@ This year third place was won by Jeff Rayner from the United States.
 
 His entry "Side-Walking on Air" is shown below. It was taken by an iPhone X in Los Feliz, Los Angeles, California.
 
-![Side-Walking on Air](../../img/side-walking-on-air.jpg)
+![Side-Walking on Air](../../img/ThirdPlace-1.jpg)
