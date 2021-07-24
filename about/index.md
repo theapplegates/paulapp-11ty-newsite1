@@ -17,7 +17,7 @@ Oh and I lost the game.
 
 ![ShowTitle](../../img/Pyramid-title.jpg)
 
-![Contract](../../img/contract-.jpg)
+![Contract](../../img/contract-.JPG)
 
 
 ![Me](../../img/Me-Mom-.jpg)
