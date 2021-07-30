@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>PA</ShortName>
+  <LongName>Paul Applegate's personal site search</LongName>
+  <Description>Search through contents posted on Paul Applegate's personal site</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image height="16" width="16" type="image/x-icon">https://paulapplegate.com/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://paulapplegate.com/archives/?query={searchTerms}" />
+  <Url type="application/opensearchdescription+xml"
+    rel="self"
+    template="https://paulapplegate.com/opensearch.xml" />
+  <moz:SearchForm>https://paulapplegate.com/archives/</moz:SearchForm>
+</OpenSearchDescription>
